@@ -1,6 +1,6 @@
 # Hi there, I'm Stanley Melchizedek! 👋
 
-I'm a passionate software developer with expertise in JavaScript, TypeScript, React, Angular, CSS, Sass, Tailwind CSS, React Native, Framer Motion, GSAP, and Firebase. I'm currently diving deeper into MongoDB, Express, and Three.js to broaden my skill set even further.
+I'm a passionate software developer who loves to build things
 
 ## About Me
 
@@ -22,4 +22,4 @@ I'm a passionate software developer with expertise in JavaScript, TypeScript, Re
 
 I thrive on bringing ideas to life through code. Whether it's turning a concept into a stunning website, crafting a sleek mobile app, or adding captivating animations to enhance user engagement, I'm here to help you realize your vision.
 
-Feel free to reach out if you have a project you'd like to collaborate on or if you need assistance with anything related to web or mobile development. Let's bring your ideas to life together! 😊
+Got an idea? Looking for a collaborator? Curious about something? Wanna chat? I've got you covered. Let's bring your ideas to life together! 😊
