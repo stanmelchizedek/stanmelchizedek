@@ -1,4 +1,4 @@
-[![An image of @stanmelchizedek's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/stanmelchizedek)](https://holopin.io/@stanmelchizedek)
+(https://holopin.me/stanmelchizedek)](https://holopin.io/@stanmelchizedek)
 
 # Hi there, I'm Stanley Melchizedek! 👋
 
@@ -25,3 +25,6 @@ I'm a passionate software developer who loves to build things
 I thrive on bringing ideas to life through code. Whether it's turning a concept into a stunning website, crafting a sleek mobile app, or adding captivating animations to enhance user engagement, I'm here to help you realize your vision.
 
 Got an idea? Looking for a collaborator? Curious about something? Wanna chat? I've got you covered. Let's bring your ideas to life together! 😊
+
+[<img alt="Whatsapp" width="22px" src="./whatsapp.svg"/>][whatsapp]
+[whatsapp]: https://wa.me/+255718013084
