@@ -1,3 +1,5 @@
+[![An image of @stanmelchizedek's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/stanmelchizedek)](https://holopin.io/@stanmelchizedek)
+
 # Hi there, I'm Stanley Melchizedek! 👋
 
 I'm a passionate software developer who loves to build things
